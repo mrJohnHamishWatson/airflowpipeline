@@ -1,0 +1,81 @@
+APP14:APP14Flags0: Флаги приложения APP14 (Application Marker), битовая маска. Значение 32768 указывает на наличие цветового преобразования.
+APP14:APP14Flags1: Дополнительные флаги приложения APP14, битовая маска. Значение 0 означает отсутствие дополнительных флагов.
+APP14:ColorTransform: Информация о преобразовании цветов. Значение 1 указывает на преобразование от пространства CMYK к RGB.
+APP14:DCTEncodeVersion: Версия кодирования DCT (Discrete Cosine Transform). Значение 100 указывает на версию 1.00.
+Composite:ImageSize: Размер изображения в пикселях. Значение "531 800" указывает на ширину 531 пиксель и высоту 800 пикселей.
+Composite:Megapixels: Количество мегапикселей изображения. Значение 0.4248 указывает на около 0.42 мегапикселя.
+ExifTool:ExifToolVersion: Версия программы ExifTool, используемой для чтения метаданных. Значение 12.6 указывает на версию 12.6.
+File:BitsPerSample: Количество битов на компонент при сохранении изображения. Значение 8 указывает на использование 8 бит на компонент.
+File:ColorComponents: Количество компонент цвета изображения. Значение 3 указывает на использование трех компонент: красного, зеленого и синего.
+File:CurrentIPTCDigest: Хеш-сумма текущих данных IPTC (International Press Telecommunications Council) файла.
+File:Directory: Путь к директории, где располагается файл.
+File:EncodingProcess: Процесс кодирования файла. Значение 0 указывает на отсутствие кодирования.
+File:ExifByteOrder: Порядок байтов в Exif-данных. Значение "MM" указывает на порядок байтов Motorola (Big-Endian).
+File:FileAccessDate: Дата доступа к файлу.
+File:FileInodeChangeDate: Дата изменения индексного дескриптора файла.
+File:FileModifyDate: Дата последнего изменения файла.
+File:FileName: Имя файла.
+File:FilePermissions: Права доступа к файлу в формате POSIX.
+File:FileSize: Размер файла в байтах.
+File:FileType: Тип файла. Значение "JPEG" указывает на тип JPEG-файла.
+File:FileTypeExtension: Расширение файла. Значение "JPG" указывает на расширение JPEG-файла.
+File:ImageHeight: Высота изображения в пикселях. Значение 800 указывает на высоту 800 пикселей.
+File:ImageWidth: Ширина изображения в пикселях. Значение 531 указывает на ширину 531 пиксель.
+File:MIMEType: MIME-тип файла. Значение "image/jpeg" указывает на тип JPEG-изображения.
+File:YCbCrSubSampling: Подвыборка YCbCr (яркость-красная-синяя) при сжатии. Значение "2 2" указывает на подвыборку 2x2.
+ICC_Profile:BlueMatrixColumn: Матрица перобразования синего цвета в профиле ICC (International Color Consortium).
+ICC_Profile:BlueTRC: Таблица гаммы для синего канала в профиле ICC.
+ICC_Profile:CMMFlags: Флаги CMM (Color Management Module) в профиле ICC.
+ICC_Profile:ColorSpaceData: Данные о цветовом пространстве в профиле ICC. Значение "RGB " указывает на RGB-цветовое пространство.
+ICC_Profile:ConnectionSpaceIlluminant: Иллюминант (источник освещения) в пространстве соединения в профиле ICC.
+ICC_Profile:DeviceAttributes: Атрибуты устройства в профиле ICC.
+ICC_Profile:DeviceManufacturer: Производитель устройства в профиле ICC. Значение "IEC " указывает на Международную Электротехническую Комиссию.
+ICC_Profile:DeviceMfgDesc: Описание производителя устройства в профиле ICC.
+ICC_Profile:DeviceModel: Модель устройства в профиле ICC. Значение "sRGB" указывает на стандартное цветовое пространство sRGB.
+ICC_Profile:DeviceModelDesc: Описание модели устройства в профиле ICC.
+ICC_Profile:GreenMatrixColumn: Матрица преобразования зеленого цвета в профиле ICC.
+ICC_Profile:GreenTRC: Таблица гаммы для зеленого канала в профиле ICC.
+ICC_Profile:Luminance: Яркость в профиле ICC.
+ICC_Profile:MeasurementBacking: Опора для измерения в профиле ICC.
+ICC_Profile:MeasurementFlare: Уровень отблеска при измерении в профиле ICC.
+ICC_Profile:MeasurementGeometry: Геометрия при измерении в профиле ICC.
+ICC_Profile:MeasurementIlluminant: Иллюминант (источник освещения) при измерении в профиле ICC.
+ICC_Profile:MeasurementObserver: Наблюдатель при измерении в профиле ICC.
+ICC_Profile:MediaBlackPoint: Черная точка медиа в профиле ICC.
+ICC_Profile:MediaWhitePoint: Белая точка медиа в профиле ICC.
+ICC_Profile:PrimaryPlatform: Основная платформа, на которой создан профиль ICC.
+ICC_Profile:ProfileCMMType: Тип CMM (Color Management Module) в профиле ICC.
+ICC_Profile:ProfileClass: Класс профиля ICC. Значение "mntr" указывает на мониторный профиль.
+ICC_Profile:ProfileConnectionSpace: Цветовое пространство соединения в профиле ICC.
+ICC_Profile:ProfileCopyright: Авторское право профиля ICC.
+ICC_Profile:ProfileCreator: Создатель профиля ICC.
+ICC_Profile:ProfileDateTime: Дата и время создания профиля ICC.
+ICC_Profile:ProfileDescription: Описание профиля ICC.
+ICC_Profile:ProfileFileSignature: Сигнатура файла профиля ICC.
+ICC_Profile:ProfileID: Уникальный идентификатор профиля ICC.
+ICC_Profile:ProfileVersion: Версия профиля ICC.
+ICC_Profile:RedMatrixColumn: Матрица преобразования красного цвета в профиле ICC.
+ICC_Profile:RedTRC: Таблица гаммы для красного канала в профиле ICC.
+ICC_Profile:RenderingIntent: Цель рендеринга в профиле ICC.
+ICC_Profile:Technology: Технология, для которой предназначен профиль ICC. Значение "CRT " указывает на кинескопный монитор.
+ICC_Profile:ViewingCondDesc: Описание условий просмотра в профиле ICC.
+ICC_Profile:ViewingCondIlluminant: Иллюминант (источник освещения) при просмотре в профиле ICC.
+ICC_Profile:ViewingCondIlluminantType: Тип иллюминанта при просмотре в профиле ICC.
+ICC_Profile:ViewingCondSurround: Окружение при просмотре в профиле ICC.
+IPTC:ApplicationRecordVersion: Версия записи приложения IPTC.
+IPTC:CodedCharacterSet: Кодировка символов для IPTC-записей.
+IPTC:DocumentNotes: Заметки к документу в формате IPTC.
+IPTC:EnvelopeRecordVersion: Версия записи конверта IPTC.
+JFIF:JFIFVersion: Версия формата JFIF (JPEG File Interchange Format).
+JFIF:ResolutionUnit: Единица измерения разрешения изображения в формате JFIF. Значение 0 указывает на отсутствие единицы измерения.
+JFIF:XResolution: Горизонтальное разрешение изображения в формате JFIF.
+JFIF:YResolution: Вертикальное разрешение изображения в формате JFIF.
+Photoshop:ColorMode: Режим цвета в файле Photoshop. Значение 3 указывает на режим RGB.
+Photoshop:ICCProfile: ICC-профиль в файле Photoshop.
+Photoshop:PhotoshopVersion: Версия программы Photoshop, используемой для создания файла.
+Photoshop:ResolutionInfo: Информация о разрешении в файле Photoshop.
+SourceFile: Исходный файл изображения.
+XMP:CreateDate: Дата создания файла в формате XMP (Extensible Metadata Platform).
+XMP:CreatorTool: Инструмент, используемый для создания файла в формате XMP.
+XMP:MetadataDate: Дата создания метаданных в формате XMP.
+XMP:ModifyDate: Дата последнего изменения метаданных в формате XMP.
